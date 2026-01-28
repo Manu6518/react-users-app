@@ -38,5 +38,6 @@ The current version has been upgraded to full CRUD with a backend, error handlin
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/React-Users-App.git
-cd React-Users-App
+git clone https://github.com/Manu6518/heisenberg.git
+cd heisenberg
+
