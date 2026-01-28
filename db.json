@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Walter White"
+    },
+    {
+      "id": "2",
+      "name": "Jesse Pinkman"
+    },
+    {
+      "id": "3",
+      "name": "Gustavo Fring"
+    },
+    {
+      "id": "4",
+      "name": "Mike"
+    },
+    {
+      "id": "5",
+      "name": "Saul Goodman"
+    },
+    {
+      "id": "6",
+      "name": "Salamanca"
+    },
+    {
+      "id": "9253",
+      "name": "Skyler"
+    }
+  ]
+}
