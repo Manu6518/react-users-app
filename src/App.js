@@ -125,9 +125,6 @@ function App() {
      setEditName(user.name);
      setEditId(user.id);
      bsModal.current.show();
-     //const modalEl = document.getElementById("editUserModal");
-     //const modal = new window.bootstrap.Modal(modalEl);
-     //modal.show();
   };
 
   //save edited user
@@ -146,9 +143,6 @@ function App() {
       //hide modal
       bsModal.current.hide();
       showToast("User updated successfully");
-      // const modalEl = document.getElementById("editUserModal");
-      // const modal = window.bootstrap.Modal.getInstance(modalEl);
-      // modal.hide();
     }
     catch{
       setError("Failed to update user");
