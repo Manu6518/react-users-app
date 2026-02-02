@@ -47,6 +47,7 @@ The current version evolves this into a full CRUD application with improved UX a
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Manu6518/heisenberg.git
-cd heisenberg
+git clone https://github.com/Manu6518/react-users-app.git
+cd react-users-app
+
 
