@@ -1,7 +1,6 @@
 # Users List App (React)
 
-A React application for managing users that demonstrates clean state management, API integration, and CRUD operations using a mock backend.
-This project focuses on applying React fundamentals with real-world UI patterns rather than complex domain logic.
+Built a React user management app with login authentication, CRUD operations, and API integration. Demonstrates secure user access, clean state management, and real-world UI patterns while emphasizing React fundamentals.
 
 ## Features
 
