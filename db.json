@@ -28,5 +28,37 @@
       "name": "Skyler",
       "id": "9253"
     }
+  ],
+  "authUsers": [
+    {
+      "id": "1",
+      "email": "admin@test.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "email": "user@test.com",
+      "password": "user123",
+      "role": "user"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Prepare Chemistry Lecture",
+      "description": "Slides and exercises for students",
+      "priority": "High",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "title": "Buy Lab Supplies",
+      "description": "Check reagents and glassware",
+      "priority": "Medium",
+      "completed": true
+    }
   ]
 }
